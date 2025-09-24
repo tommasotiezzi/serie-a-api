@@ -1,6 +1,9 @@
 // src/footballDataFetcher.js - Fetch Serie A from football-data.org
+require('dotenv').config();
 const https = require('https');
 const fs = require('fs').promises;
+
+
 
 async function fetchSerieAData() {
     console.log('Fetching Serie A 2025 from football-data.org...');

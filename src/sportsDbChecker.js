@@ -11,7 +11,7 @@ async function fetchSerieAData() {
         port: null,
         path: '/v4/competitions/2019/matches',
         headers: {
-            'X-Auth-Token': '7c66aa9d64c5463ca752ef512838d360'
+            'X-Auth-Token': process.env.FOOTBALL_DATA_TOKEN
         }
     };
 

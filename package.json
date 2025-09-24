@@ -1,0 +1,29 @@
+{
+  "name": "serie-a-api",
+  "version": "1.0.0",
+  "description": "Serie A fixture calendar and JSON APIs with weekly automation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test-api.js",
+    "fetch": "node src/fetchFixtures.js",
+    "generate": "node src/generateAll.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "serie-a",
+    "football",
+    "api",
+    "calendar",
+    "fixtures"
+  ],
+  "author": "tommasotiezzi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ical-generator": "^4.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

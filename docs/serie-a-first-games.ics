@@ -1,0 +1,467 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Serie A First Games 2025
+X-WR-CALNAME:Serie A First Games 2025
+X-WR-CALDESC:First game of each Serie A matchday - 2025 season
+TIMEZONE-ID:Europe/Rome
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:309d78a0-f7c2-4564-93cb-9c427ffc34ae
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20250823T183000
+DTEND:20250823T201500
+SUMMARY:Genoa CFC vs US Lecce
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 1\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:8989d132-0295-4c8f-9b46-2f1833786efd
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20250829T183000
+DTEND:20250829T201500
+SUMMARY:US Cremonese vs US Sassuolo Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 2\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:499092f9-94cf-4bbf-8e0c-4bd62a108ebd
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20250913T150000
+DTEND:20250913T164500
+SUMMARY:Cagliari Calcio vs Parma Calcio 1913
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 3\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:dae93a34-944c-48db-bdb0-5e0ca5574b89
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20250919T204500
+DTEND:20250919T223000
+SUMMARY:US Lecce vs Cagliari Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 4\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7edbe8-c1c2-438c-9c46-a05cd7890d37
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20250927T150000
+DTEND:20250927T164500
+SUMMARY:Como 1907 vs US Cremonese
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 5\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:e21ed43d-7fc8-43ae-9066-63095a8a028a
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251003T204500
+DTEND:20251003T223000
+SUMMARY:Hellas Verona FC vs US Sassuolo Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 6\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:032e84fb-73ac-4826-aede-d345d0da64b9
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251018T150000
+DTEND:20251018T164500
+SUMMARY:AC Pisa 1909 vs Hellas Verona FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 7\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:823363e9-ca3f-40bd-97e7-0bb975be6df5
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251024T204500
+DTEND:20251024T223000
+SUMMARY:AC Milan vs AC Pisa 1909
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 8\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:42805d27-16e8-4b6b-ab81-4f62bc2bba6d
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251028T183000
+DTEND:20251028T201500
+SUMMARY:US Lecce vs SSC Napoli
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 9\nVenue: TBD\n\nFirst game of the ma
+ tchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b38c36-a8c6-4a77-8aaf-175ae5bfd13e
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251101T150000
+DTEND:20251101T164500
+SUMMARY:Udinese Calcio vs Atalanta BC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 10\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:f95639c6-eee7-440c-8ae2-22fabd5da3ee
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251107T204500
+DTEND:20251107T223000
+SUMMARY:AC Pisa 1909 vs US Cremonese
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 11\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:b84d2e70-2328-4109-8acb-568a7e33704d
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251122T150000
+DTEND:20251122T164500
+SUMMARY:Cagliari Calcio vs Genoa CFC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 12\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:49ca5b4d-a001-4a6e-930b-88ee65bdc5b8
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251130T010000
+DTEND:20251130T024500
+SUMMARY:AC Milan vs SS Lazio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 13\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:25f4b51f-f617-4380-8116-034866d72316
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251207T010000
+DTEND:20251207T024500
+SUMMARY:Cagliari Calcio vs AS Roma
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 14\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:6c8f5612-a855-4b3f-b517-67b825d9cbbc
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251214T010000
+DTEND:20251214T024500
+SUMMARY:ACF Fiorentina vs Hellas Verona FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 15\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:80c7953f-8be3-4f44-a017-94228814049b
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251221T010000
+DTEND:20251221T024500
+SUMMARY:ACF Fiorentina vs Udinese Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 16\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6c2540-2c64-49c9-8a37-70a210cf2fbf
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20251228T010000
+DTEND:20251228T024500
+SUMMARY:AC Milan vs Hellas Verona FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 17\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9a60f7-6d6c-4512-afc8-711a01a29c2a
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260103T010000
+DTEND:20260103T024500
+SUMMARY:ACF Fiorentina vs US Cremonese
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 18\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:c63c9b5f-8570-40d8-bb0a-7c97841df80a
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260106T010000
+DTEND:20260106T024500
+SUMMARY:AC Milan vs Genoa CFC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 19\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:1f97596d-040e-49ee-b3ea-aa94cbd2a10d
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260111T010000
+DTEND:20260111T024500
+SUMMARY:ACF Fiorentina vs AC Milan
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 20\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:77e4acfd-0e9f-42c4-9673-ce2964fd50e1
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260118T010000
+DTEND:20260118T024500
+SUMMARY:AC Milan vs US Lecce
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 21\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:71ef8804-56af-476b-9ef2-ae130f41aa64
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260125T010000
+DTEND:20260125T024500
+SUMMARY:ACF Fiorentina vs Cagliari Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 22\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf1de6f-01e4-438d-8867-29bca837ba67
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260201T010000
+DTEND:20260201T024500
+SUMMARY:Cagliari Calcio vs Hellas Verona FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 23\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:d681ab7d-09d3-4ecc-a84d-9995a98a08ac
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260208T010000
+DTEND:20260208T024500
+SUMMARY:ACF Fiorentina vs Torino FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 24\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:2ce4603a-c401-45fb-8a72-cbb516c118d1
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260215T010000
+DTEND:20260215T024500
+SUMMARY:Cagliari Calcio vs US Lecce
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 25\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d56341-c874-4925-be69-a802df651f76
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260222T010000
+DTEND:20260222T024500
+SUMMARY:ACF Fiorentina vs AC Pisa 1909
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 26\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e18a1f-160a-4a7b-a2bb-3c9f99419291
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260301T010000
+DTEND:20260301T024500
+SUMMARY:AS Roma vs Juventus FC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 27\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:4385418f-57c2-4af0-b86a-33892907dfef
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260308T010000
+DTEND:20260308T024500
+SUMMARY:Cagliari Calcio vs Como 1907
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 28\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:06283970-e849-4442-8abe-634b47585793
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260315T010000
+DTEND:20260315T024500
+SUMMARY:Como 1907 vs AS Roma
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 29\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1d72a0-ec26-41d1-9ec8-d41edccfcb95
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260322T010000
+DTEND:20260322T024500
+SUMMARY:ACF Fiorentina vs FC Internazionale Milano
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 30\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9fc263-201c-4aaa-b551-c00064690d90
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260404T020000
+DTEND:20260404T034500
+SUMMARY:Hellas Verona FC vs ACF Fiorentina
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 31\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:374d8d5d-c8d2-4579-a3c3-f706b4bf9792
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260412T020000
+DTEND:20260412T034500
+SUMMARY:ACF Fiorentina vs SS Lazio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 32\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:85fdcb04-b48c-41a7-ba58-d6f2dd8e9fc6
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260419T020000
+DTEND:20260419T034500
+SUMMARY:AS Roma vs Atalanta BC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 33\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:3ceefdae-a7b4-4dc7-acaf-878f5b681fdf
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260426T020000
+DTEND:20260426T034500
+SUMMARY:ACF Fiorentina vs US Sassuolo Calcio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 34\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:435010a7-9f54-45d6-987a-15bf93125b12
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260503T020000
+DTEND:20260503T034500
+SUMMARY:AS Roma vs ACF Fiorentina
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 35\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:b56d5a8f-a7b2-44b9-9d31-9e3273e82b73
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260510T020000
+DTEND:20260510T034500
+SUMMARY:ACF Fiorentina vs Genoa CFC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 36\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:b4329a39-2e6e-4336-933f-fb56092d8c89
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260517T020000
+DTEND:20260517T034500
+SUMMARY:AS Roma vs SS Lazio
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 37\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+BEGIN:VEVENT
+UID:df5778f7-43a0-4856-8746-7f648b43cd9f
+SEQUENCE:0
+DTSTAMP:20250924T093437
+DTSTART:20260524T020000
+DTEND:20260524T034500
+SUMMARY:ACF Fiorentina vs Atalanta BC
+LOCATION:TBD\, Italy
+DESCRIPTION:Serie A Regular Season - 38\nVenue: TBD\n\nFirst game of the m
+ atchday
+URL;VALUE=URI:https://github.com/tommasotiezzi/serie-a-api
+END:VEVENT
+END:VCALENDAR

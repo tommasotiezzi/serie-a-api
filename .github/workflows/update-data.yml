@@ -23,7 +23,7 @@ jobs:
       run: npm install
       
     - name: Fetch Serie A data
-      run: node src/footballDataFetcher.js
+      run: node src/sportsDbChecker.js
       
     - name: Generate calendar
       run: node src/generateCalendar.js

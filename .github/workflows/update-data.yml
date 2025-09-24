@@ -24,6 +24,8 @@ jobs:
       
     - name: Fetch Serie A data
       run: node src/sportsDbChecker.js
+      env:
+        FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
       
     - name: Generate calendar
       run: node src/generateCalendar.js

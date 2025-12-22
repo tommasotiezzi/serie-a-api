@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2025-12-15T10:30:59.896Z",
+  "lastUpdated": "2025-12-22T10:26:46.464Z",
   "totalGames": 38,
   "games": [
     {
@@ -400,7 +400,7 @@
       "fixture": {
         "date": "2025-12-20T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },

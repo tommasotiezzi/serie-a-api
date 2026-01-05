@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2025-12-29T10:27:53.374Z",
+  "lastUpdated": "2026-01-05T10:30:01.702Z",
   "totalFixtures": 380,
   "fixtures": [
     {
@@ -4150,7 +4150,7 @@
       "fixture": {
         "date": "2025-12-29T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4175,7 +4175,7 @@
       "fixture": {
         "date": "2026-01-02T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4200,7 +4200,7 @@
       "fixture": {
         "date": "2026-01-03T12:30:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4225,7 +4225,7 @@
       "fixture": {
         "date": "2026-01-03T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4250,7 +4250,7 @@
       "fixture": {
         "date": "2026-01-03T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4275,7 +4275,7 @@
       "fixture": {
         "date": "2026-01-03T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4300,7 +4300,7 @@
       "fixture": {
         "date": "2026-01-03T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4325,7 +4325,7 @@
       "fixture": {
         "date": "2026-01-04T12:30:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4350,7 +4350,7 @@
       "fixture": {
         "date": "2026-01-04T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4375,7 +4375,7 @@
       "fixture": {
         "date": "2026-01-04T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -4400,7 +4400,7 @@
       "fixture": {
         "date": "2026-01-04T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },

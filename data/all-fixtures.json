@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2026-02-09T10:57:35.694Z",
+  "lastUpdated": "2026-02-16T10:53:41.552Z",
   "totalFixtures": 380,
   "fixtures": [
     {
@@ -5950,7 +5950,7 @@
       "fixture": {
         "date": "2026-02-09T18:30:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -5975,7 +5975,7 @@
       "fixture": {
         "date": "2026-02-09T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6000,7 +6000,7 @@
       "fixture": {
         "date": "2026-02-13T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6025,7 +6025,7 @@
       "fixture": {
         "date": "2026-02-14T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6050,7 +6050,7 @@
       "fixture": {
         "date": "2026-02-14T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6075,7 +6075,7 @@
       "fixture": {
         "date": "2026-02-14T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6100,7 +6100,7 @@
       "fixture": {
         "date": "2026-02-15T12:30:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6125,7 +6125,7 @@
       "fixture": {
         "date": "2026-02-15T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6150,7 +6150,7 @@
       "fixture": {
         "date": "2026-02-15T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6175,7 +6175,7 @@
       "fixture": {
         "date": "2026-02-15T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6200,7 +6200,7 @@
       "fixture": {
         "date": "2026-02-15T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6505,133 +6505,8 @@
       }
     },
     {
-      "id": 537075,
-      "date": "2026-03-01T01:00:00.000Z",
-      "teams": {
-        "home": {
-          "name": "AS Roma"
-        },
-        "away": {
-          "name": "Juventus FC"
-        }
-      },
-      "venue": {
-        "name": "TBD",
-        "city": ""
-      },
-      "league": {
-        "round": "Regular Season - 27"
-      },
-      "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
-        "status": {
-          "long": "SCHEDULED"
-        }
-      }
-    },
-    {
-      "id": 537076,
-      "date": "2026-03-01T01:00:00.000Z",
-      "teams": {
-        "home": {
-          "name": "Como 1907"
-        },
-        "away": {
-          "name": "US Lecce"
-        }
-      },
-      "venue": {
-        "name": "TBD",
-        "city": ""
-      },
-      "league": {
-        "round": "Regular Season - 27"
-      },
-      "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
-        "status": {
-          "long": "SCHEDULED"
-        }
-      }
-    },
-    {
-      "id": 537077,
-      "date": "2026-03-01T01:00:00.000Z",
-      "teams": {
-        "home": {
-          "name": "Torino FC"
-        },
-        "away": {
-          "name": "SS Lazio"
-        }
-      },
-      "venue": {
-        "name": "TBD",
-        "city": ""
-      },
-      "league": {
-        "round": "Regular Season - 27"
-      },
-      "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
-        "status": {
-          "long": "SCHEDULED"
-        }
-      }
-    },
-    {
-      "id": 537078,
-      "date": "2026-03-01T01:00:00.000Z",
-      "teams": {
-        "home": {
-          "name": "Hellas Verona FC"
-        },
-        "away": {
-          "name": "SSC Napoli"
-        }
-      },
-      "venue": {
-        "name": "TBD",
-        "city": ""
-      },
-      "league": {
-        "round": "Regular Season - 27"
-      },
-      "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
-        "status": {
-          "long": "SCHEDULED"
-        }
-      }
-    },
-    {
-      "id": 537079,
-      "date": "2026-03-01T01:00:00.000Z",
-      "teams": {
-        "home": {
-          "name": "FC Internazionale Milano"
-        },
-        "away": {
-          "name": "Genoa CFC"
-        }
-      },
-      "venue": {
-        "name": "TBD",
-        "city": ""
-      },
-      "league": {
-        "round": "Regular Season - 27"
-      },
-      "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
-        "status": {
-          "long": "SCHEDULED"
-        }
-      }
-    },
-    {
       "id": 537080,
-      "date": "2026-03-01T01:00:00.000Z",
+      "date": "2026-02-27T20:45:00.000Z",
       "teams": {
         "home": {
           "name": "Parma Calcio 1913"
@@ -6648,21 +6523,21 @@
         "round": "Regular Season - 27"
       },
       "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
+        "date": "2026-02-27T20:45:00.000Z",
         "status": {
-          "long": "SCHEDULED"
+          "long": "TIMED"
         }
       }
     },
     {
-      "id": 537081,
-      "date": "2026-03-01T01:00:00.000Z",
+      "id": 537076,
+      "date": "2026-02-28T15:00:00.000Z",
       "teams": {
         "home": {
-          "name": "AC Pisa 1909"
+          "name": "Como 1907"
         },
         "away": {
-          "name": "Bologna FC 1909"
+          "name": "US Lecce"
         }
       },
       "venue": {
@@ -6673,21 +6548,21 @@
         "round": "Regular Season - 27"
       },
       "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
+        "date": "2026-02-28T15:00:00.000Z",
         "status": {
-          "long": "SCHEDULED"
+          "long": "TIMED"
         }
       }
     },
     {
-      "id": 537082,
-      "date": "2026-03-01T01:00:00.000Z",
+      "id": 537078,
+      "date": "2026-02-28T18:00:00.000Z",
       "teams": {
         "home": {
-          "name": "US Sassuolo Calcio"
+          "name": "Hellas Verona FC"
         },
         "away": {
-          "name": "Atalanta BC"
+          "name": "SSC Napoli"
         }
       },
       "venue": {
@@ -6698,21 +6573,21 @@
         "round": "Regular Season - 27"
       },
       "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
+        "date": "2026-02-28T18:00:00.000Z",
         "status": {
-          "long": "SCHEDULED"
+          "long": "TIMED"
         }
       }
     },
     {
-      "id": 537083,
-      "date": "2026-03-01T01:00:00.000Z",
+      "id": 537079,
+      "date": "2026-02-28T20:45:00.000Z",
       "teams": {
         "home": {
-          "name": "Udinese Calcio"
+          "name": "FC Internazionale Milano"
         },
         "away": {
-          "name": "ACF Fiorentina"
+          "name": "Genoa CFC"
         }
       },
       "venue": {
@@ -6723,15 +6598,15 @@
         "round": "Regular Season - 27"
       },
       "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
+        "date": "2026-02-28T20:45:00.000Z",
         "status": {
-          "long": "SCHEDULED"
+          "long": "TIMED"
         }
       }
     },
     {
       "id": 537084,
-      "date": "2026-03-01T01:00:00.000Z",
+      "date": "2026-03-01T12:30:00.000Z",
       "teams": {
         "home": {
           "name": "US Cremonese"
@@ -6748,9 +6623,134 @@
         "round": "Regular Season - 27"
       },
       "fixture": {
-        "date": "2026-03-01T01:00:00.000Z",
+        "date": "2026-03-01T12:30:00.000Z",
         "status": {
-          "long": "SCHEDULED"
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 537082,
+      "date": "2026-03-01T15:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2026-03-01T15:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 537077,
+      "date": "2026-03-01T18:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2026-03-01T18:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 537075,
+      "date": "2026-03-01T20:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2026-03-01T20:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 537081,
+      "date": "2026-03-02T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Pisa 1909"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2026-03-02T18:30:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 537083,
+      "date": "2026-03-02T20:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2026-03-02T20:45:00.000Z",
+        "status": {
+          "long": "TIMED"
         }
       }
     },

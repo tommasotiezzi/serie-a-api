@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2026-02-16T10:53:41.552Z",
+  "lastUpdated": "2026-02-23T10:53:45.382Z",
   "totalFixtures": 380,
   "fixtures": [
     {
@@ -6225,7 +6225,7 @@
       "fixture": {
         "date": "2026-02-16T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6250,7 +6250,7 @@
       "fixture": {
         "date": "2026-02-18T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6275,7 +6275,7 @@
       "fixture": {
         "date": "2026-02-20T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6300,7 +6300,7 @@
       "fixture": {
         "date": "2026-02-21T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6325,7 +6325,7 @@
       "fixture": {
         "date": "2026-02-21T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6350,7 +6350,7 @@
       "fixture": {
         "date": "2026-02-21T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6375,7 +6375,7 @@
       "fixture": {
         "date": "2026-02-22T12:30:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6400,7 +6400,7 @@
       "fixture": {
         "date": "2026-02-22T15:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6425,7 +6425,7 @@
       "fixture": {
         "date": "2026-02-22T18:00:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },
@@ -6450,7 +6450,7 @@
       "fixture": {
         "date": "2026-02-22T20:45:00.000Z",
         "status": {
-          "long": "TIMED"
+          "long": "FINISHED"
         }
       }
     },

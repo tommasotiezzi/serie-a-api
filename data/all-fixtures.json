@@ -1,7 +1,9508 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2026-06-15T15:47:57.896Z",
-  "totalFixtures": 0,
-  "fixtures": []
+  "lastUpdated": "2026-06-22T15:24:47.877Z",
+  "totalFixtures": 380,
+  "fixtures": [
+    {
+      "id": 558629,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558630,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558631,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558632,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558633,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558634,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558635,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558636,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558637,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558638,
+      "date": "2026-08-23T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 1"
+      },
+      "fixture": {
+        "date": "2026-08-23T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558619,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558620,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558621,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558622,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558623,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558624,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558625,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558626,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558627,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558628,
+      "date": "2026-08-30T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 2"
+      },
+      "fixture": {
+        "date": "2026-08-30T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558609,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558610,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558611,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558612,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558613,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558614,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558615,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558616,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558617,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558618,
+      "date": "2026-09-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 3"
+      },
+      "fixture": {
+        "date": "2026-09-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558599,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558600,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558601,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558602,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558603,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558604,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558605,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558606,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558607,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558608,
+      "date": "2026-09-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 4"
+      },
+      "fixture": {
+        "date": "2026-09-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558592,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558593,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558594,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558595,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558596,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558597,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558598,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558589,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558590,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558591,
+      "date": "2026-09-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 5"
+      },
+      "fixture": {
+        "date": "2026-09-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558579,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558580,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558581,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558582,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558583,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558584,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558585,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558586,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558587,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558588,
+      "date": "2026-10-11T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 6"
+      },
+      "fixture": {
+        "date": "2026-10-11T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558569,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558570,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558571,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558572,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558573,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558574,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558575,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558576,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558577,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558578,
+      "date": "2026-10-18T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 7"
+      },
+      "fixture": {
+        "date": "2026-10-18T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558559,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558560,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558561,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558562,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558563,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558564,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558565,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558566,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558567,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558568,
+      "date": "2026-10-25T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 8"
+      },
+      "fixture": {
+        "date": "2026-10-25T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558549,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558550,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558551,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558552,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558553,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558554,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558555,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558556,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558557,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558558,
+      "date": "2026-10-28T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 9"
+      },
+      "fixture": {
+        "date": "2026-10-28T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558539,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558540,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558541,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558542,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558543,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558544,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558545,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558546,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558547,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558548,
+      "date": "2026-11-01T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 10"
+      },
+      "fixture": {
+        "date": "2026-11-01T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558529,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558530,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558531,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558532,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558533,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558534,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558535,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558536,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558537,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558538,
+      "date": "2026-11-08T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 11"
+      },
+      "fixture": {
+        "date": "2026-11-08T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558519,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558520,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558521,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558522,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558523,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558524,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558525,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558526,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558527,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558528,
+      "date": "2026-11-22T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 12"
+      },
+      "fixture": {
+        "date": "2026-11-22T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558509,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558510,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558511,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558512,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558513,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558514,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558515,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558516,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558517,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558518,
+      "date": "2026-11-29T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 13"
+      },
+      "fixture": {
+        "date": "2026-11-29T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558499,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558500,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558501,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558502,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558503,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558504,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558505,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558506,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558507,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558508,
+      "date": "2026-12-06T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 14"
+      },
+      "fixture": {
+        "date": "2026-12-06T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558489,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558490,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558491,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558492,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558493,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558494,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558495,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558496,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558497,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558498,
+      "date": "2026-12-13T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 15"
+      },
+      "fixture": {
+        "date": "2026-12-13T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558479,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558480,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558481,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558482,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558483,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558484,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558485,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558486,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558487,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558488,
+      "date": "2026-12-20T18:30:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 16"
+      },
+      "fixture": {
+        "date": "2026-12-20T18:30:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558469,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558470,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558471,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558472,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558473,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558474,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558475,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558476,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558477,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558478,
+      "date": "2027-01-03T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 17"
+      },
+      "fixture": {
+        "date": "2027-01-03T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558459,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558460,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558461,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558462,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558463,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558464,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558465,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558466,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558467,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558468,
+      "date": "2027-01-06T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 18"
+      },
+      "fixture": {
+        "date": "2027-01-06T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558449,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558450,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558451,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558452,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558453,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558454,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558455,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558456,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558457,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558458,
+      "date": "2027-01-10T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 19"
+      },
+      "fixture": {
+        "date": "2027-01-10T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558439,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558440,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558441,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558442,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558443,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558444,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558445,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558446,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558447,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558448,
+      "date": "2027-01-17T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 20"
+      },
+      "fixture": {
+        "date": "2027-01-17T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558429,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558430,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558431,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558432,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558433,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558434,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558435,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558436,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558437,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558438,
+      "date": "2027-01-24T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 21"
+      },
+      "fixture": {
+        "date": "2027-01-24T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558419,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558420,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558421,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558422,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558423,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558424,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558425,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558426,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558427,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558428,
+      "date": "2027-01-31T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 22"
+      },
+      "fixture": {
+        "date": "2027-01-31T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558409,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558410,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558411,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558412,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558413,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558414,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558415,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558416,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558417,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558418,
+      "date": "2027-02-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 23"
+      },
+      "fixture": {
+        "date": "2027-02-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558399,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558400,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558401,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558402,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558403,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558404,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558405,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558406,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558407,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558408,
+      "date": "2027-02-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 24"
+      },
+      "fixture": {
+        "date": "2027-02-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558389,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558390,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558391,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558392,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558393,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558394,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558395,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558396,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558397,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558398,
+      "date": "2027-02-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 25"
+      },
+      "fixture": {
+        "date": "2027-02-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558379,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558380,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558381,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558382,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558383,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558384,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558385,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558386,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558387,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558388,
+      "date": "2027-02-28T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 26"
+      },
+      "fixture": {
+        "date": "2027-02-28T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558369,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558370,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558371,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558372,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558373,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558374,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558375,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558376,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558377,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558378,
+      "date": "2027-03-07T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 27"
+      },
+      "fixture": {
+        "date": "2027-03-07T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558359,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558360,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558361,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558362,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558363,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558364,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558365,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558366,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558367,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558368,
+      "date": "2027-03-14T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 28"
+      },
+      "fixture": {
+        "date": "2027-03-14T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558349,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558350,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558351,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558352,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558353,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558354,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558355,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558356,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558357,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558358,
+      "date": "2027-03-21T13:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 29"
+      },
+      "fixture": {
+        "date": "2027-03-21T13:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558339,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558340,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558341,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558342,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558343,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558344,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558345,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558346,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558347,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558348,
+      "date": "2027-04-04T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 30"
+      },
+      "fixture": {
+        "date": "2027-04-04T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558336,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558337,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558338,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558329,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558330,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558331,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558332,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558333,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558334,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558335,
+      "date": "2027-04-11T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 31"
+      },
+      "fixture": {
+        "date": "2027-04-11T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558319,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558320,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558321,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558322,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558323,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558324,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558325,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558326,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558327,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558328,
+      "date": "2027-04-18T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 32"
+      },
+      "fixture": {
+        "date": "2027-04-18T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558309,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558310,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558311,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558312,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558313,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558314,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558315,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558316,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558317,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558318,
+      "date": "2027-04-25T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 33"
+      },
+      "fixture": {
+        "date": "2027-04-25T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558299,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558300,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558301,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558302,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558303,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558304,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558305,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558306,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558307,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558308,
+      "date": "2027-05-02T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 34"
+      },
+      "fixture": {
+        "date": "2027-05-02T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558289,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558290,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558291,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558292,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558293,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558294,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558295,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558296,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558297,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558298,
+      "date": "2027-05-09T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 35"
+      },
+      "fixture": {
+        "date": "2027-05-09T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558279,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558280,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558281,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558282,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558283,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558284,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558285,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558286,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558287,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558288,
+      "date": "2027-05-16T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 36"
+      },
+      "fixture": {
+        "date": "2027-05-16T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558269,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558270,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Parma Calcio 1913"
+        },
+        "away": {
+          "name": "Juventus FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558271,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Torino FC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558272,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Atalanta BC"
+        },
+        "away": {
+          "name": "US Lecce"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558273,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "SS Lazio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558274,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Udinese Calcio"
+        },
+        "away": {
+          "name": "US Sassuolo Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558275,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Frosinone Calcio"
+        },
+        "away": {
+          "name": "Cagliari Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558276,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ACF Fiorentina"
+        },
+        "away": {
+          "name": "AC Monza"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558277,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Venezia FC"
+        },
+        "away": {
+          "name": "AC Milan"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558278,
+      "date": "2027-05-23T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Genoa CFC"
+        },
+        "away": {
+          "name": "Bologna FC 1909"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 37"
+      },
+      "fixture": {
+        "date": "2027-05-23T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558259,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Milan"
+        },
+        "away": {
+          "name": "Udinese Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558260,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Juventus FC"
+        },
+        "away": {
+          "name": "Frosinone Calcio"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558261,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AC Monza"
+        },
+        "away": {
+          "name": "Torino FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558262,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Sassuolo Calcio"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558263,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Cagliari Calcio"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558264,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SS Lazio"
+        },
+        "away": {
+          "name": "ACF Fiorentina"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558265,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Genoa CFC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558266,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Atalanta BC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558267,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "US Lecce"
+        },
+        "away": {
+          "name": "Venezia FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    },
+    {
+      "id": 558268,
+      "date": "2027-05-30T14:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Bologna FC 1909"
+        },
+        "away": {
+          "name": "Parma Calcio 1913"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "Regular Season - 38"
+      },
+      "fixture": {
+        "date": "2027-05-30T14:00:00.000Z",
+        "status": {
+          "long": "SCHEDULED"
+        }
+      }
+    }
+  ]
 }

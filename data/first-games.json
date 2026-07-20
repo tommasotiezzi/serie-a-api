@@ -1,12 +1,12 @@
 {
   "source": "football-data.org",
   "season": "2025",
-  "lastUpdated": "2026-07-13T12:33:12.898Z",
+  "lastUpdated": "2026-07-20T12:18:17.805Z",
   "totalGames": 38,
   "games": [
     {
       "id": 558629,
-      "date": "2026-08-23T18:30:00.000Z",
+      "date": "2026-08-22T18:30:00.000Z",
       "teams": {
         "home": {
           "name": "Udinese Calcio"
@@ -23,21 +23,21 @@
         "round": "Regular Season - 1"
       },
       "fixture": {
-        "date": "2026-08-23T18:30:00.000Z",
+        "date": "2026-08-22T18:30:00.000Z",
         "status": {
           "long": "SCHEDULED"
         }
       }
     },
     {
-      "id": 558619,
-      "date": "2026-08-30T18:30:00.000Z",
+      "id": 558625,
+      "date": "2026-08-28T20:45:00.000Z",
       "teams": {
         "home": {
-          "name": "Juventus FC"
+          "name": "AC Milan"
         },
         "away": {
-          "name": "Parma Calcio 1913"
+          "name": "Venezia FC"
         }
       },
       "venue": {
@@ -48,7 +48,7 @@
         "round": "Regular Season - 2"
       },
       "fixture": {
-        "date": "2026-08-30T18:30:00.000Z",
+        "date": "2026-08-28T20:45:00.000Z",
         "status": {
           "long": "SCHEDULED"
         }
@@ -56,7 +56,7 @@
     },
     {
       "id": 558609,
-      "date": "2026-09-06T18:30:00.000Z",
+      "date": "2026-09-04T20:45:00.000Z",
       "teams": {
         "home": {
           "name": "Genoa CFC"
@@ -73,21 +73,21 @@
         "round": "Regular Season - 3"
       },
       "fixture": {
-        "date": "2026-09-06T18:30:00.000Z",
+        "date": "2026-09-04T20:45:00.000Z",
         "status": {
           "long": "SCHEDULED"
         }
       }
     },
     {
-      "id": 558599,
-      "date": "2026-09-13T18:30:00.000Z",
+      "id": 558606,
+      "date": "2026-09-11T20:45:00.000Z",
       "teams": {
         "home": {
-          "name": "SSC Napoli"
+          "name": "Venezia FC"
         },
         "away": {
-          "name": "Bologna FC 1909"
+          "name": "ACF Fiorentina"
         }
       },
       "venue": {
@@ -98,21 +98,21 @@
         "round": "Regular Season - 4"
       },
       "fixture": {
-        "date": "2026-09-13T18:30:00.000Z",
+        "date": "2026-09-11T20:45:00.000Z",
         "status": {
           "long": "SCHEDULED"
         }
       }
     },
     {
-      "id": 558592,
-      "date": "2026-09-20T18:30:00.000Z",
+      "id": 558596,
+      "date": "2026-09-18T20:45:00.000Z",
       "teams": {
         "home": {
-          "name": "Frosinone Calcio"
+          "name": "AC Monza"
         },
         "away": {
-          "name": "Como 1907"
+          "name": "US Sassuolo Calcio"
         }
       },
       "venue": {
@@ -123,7 +123,7 @@
         "round": "Regular Season - 5"
       },
       "fixture": {
-        "date": "2026-09-20T18:30:00.000Z",
+        "date": "2026-09-18T20:45:00.000Z",
         "status": {
           "long": "SCHEDULED"
         }

@@ -1,1 +1,3609 @@
-
+{
+  "source": "football-data.org",
+  "competition": "UEFA Champions League",
+  "season": "2025",
+  "lastUpdated": "2026-09-14T08:43:39.293Z",
+  "totalFixtures": 144,
+  "fixtures": [
+    {
+      "id": 575323,
+      "date": "2026-09-08T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Brugge KV"
+        },
+        "away": {
+          "name": "Aston Villa FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575324,
+      "date": "2026-09-08T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PAE AEK"
+        },
+        "away": {
+          "name": "LASK Linz"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575325,
+      "date": "2026-09-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Madrid CF"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575326,
+      "date": "2026-09-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Porto"
+        },
+        "away": {
+          "name": "Manchester City FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575327,
+      "date": "2026-09-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Borussia Dortmund"
+        },
+        "away": {
+          "name": "Villarreal CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575328,
+      "date": "2026-09-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Lille OSC"
+        },
+        "away": {
+          "name": "Real Betis Balompié"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-08T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575329,
+      "date": "2026-09-09T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Barcelona"
+        },
+        "away": {
+          "name": "Feyenoord Rotterdam"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575330,
+      "date": "2026-09-09T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "VfB Stuttgart"
+        },
+        "away": {
+          "name": "Viking FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575331,
+      "date": "2026-09-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Liverpool FC"
+        },
+        "away": {
+          "name": "Club Atlético de Madrid"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575332,
+      "date": "2026-09-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Paris Saint-Germain FC"
+        },
+        "away": {
+          "name": "ŠK Slovan Bratislava"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575333,
+      "date": "2026-09-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Arsenal FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575334,
+      "date": "2026-09-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sporting Clube de Portugal"
+        },
+        "away": {
+          "name": "Galatasaray SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-09T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575335,
+      "date": "2026-09-10T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Fenerbahçe SK"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575336,
+      "date": "2026-09-10T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PSV"
+        },
+        "away": {
+          "name": "FK Shakhtar Donetsk"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T18:45:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575337,
+      "date": "2026-09-10T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Bayern München"
+        },
+        "away": {
+          "name": "FK Bodø/Glimt"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575338,
+      "date": "2026-09-10T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester United FC"
+        },
+        "away": {
+          "name": "Sabah FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575339,
+      "date": "2026-09-10T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "RB Leipzig"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575340,
+      "date": "2026-09-10T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SK Slavia Praha"
+        },
+        "away": {
+          "name": "Racing Club de Lens"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 1"
+      },
+      "fixture": {
+        "date": "2026-09-10T21:00:00.000Z",
+        "status": {
+          "long": "FINISHED"
+        }
+      }
+    },
+    {
+      "id": 575341,
+      "date": "2026-10-13T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Racing Club de Lens"
+        },
+        "away": {
+          "name": "Sporting Clube de Portugal"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575342,
+      "date": "2026-10-13T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sabah FK"
+        },
+        "away": {
+          "name": "SK Slavia Praha"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575343,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Club Brugge KV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575344,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Galatasaray SK"
+        },
+        "away": {
+          "name": "FC Barcelona"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575345,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Atlético de Madrid"
+        },
+        "away": {
+          "name": "Manchester United FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575346,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Arsenal FC"
+        },
+        "away": {
+          "name": "Lille OSC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575347,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Viking FK"
+        },
+        "away": {
+          "name": "FC Bayern München"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575348,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "RB Leipzig"
+        },
+        "away": {
+          "name": "PSV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575349,
+      "date": "2026-10-13T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Villarreal CF"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-13T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575350,
+      "date": "2026-10-14T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "LASK Linz"
+        },
+        "away": {
+          "name": "Liverpool FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575351,
+      "date": "2026-10-14T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Feyenoord Rotterdam"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575352,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Real Madrid CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575353,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester City FC"
+        },
+        "away": {
+          "name": "Paris Saint-Germain FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575354,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Bodø/Glimt"
+        },
+        "away": {
+          "name": "Borussia Dortmund"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575355,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Aston Villa FC"
+        },
+        "away": {
+          "name": "Fenerbahçe SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575356,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Betis Balompié"
+        },
+        "away": {
+          "name": "FC Porto"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575357,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Shakhtar Donetsk"
+        },
+        "away": {
+          "name": "PAE AEK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575358,
+      "date": "2026-10-14T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ŠK Slovan Bratislava"
+        },
+        "away": {
+          "name": "VfB Stuttgart"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 2"
+      },
+      "fixture": {
+        "date": "2026-10-14T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575359,
+      "date": "2026-10-20T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sabah FK"
+        },
+        "away": {
+          "name": "Borussia Dortmund"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575360,
+      "date": "2026-10-20T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Fenerbahçe SK"
+        },
+        "away": {
+          "name": "SK Slavia Praha"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575361,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester City FC"
+        },
+        "away": {
+          "name": "PAE AEK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575362,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "VfB Stuttgart"
+        },
+        "away": {
+          "name": "Club Atlético de Madrid"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575363,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Liverpool FC"
+        },
+        "away": {
+          "name": "Villarreal CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575364,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "ŠK Slovan Bratislava"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575365,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Porto"
+        },
+        "away": {
+          "name": "PSV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575366,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "FK Bodø/Glimt"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575367,
+      "date": "2026-10-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Paris Saint-Germain FC"
+        },
+        "away": {
+          "name": "FC Barcelona"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575368,
+      "date": "2026-10-21T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Manchester United FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575369,
+      "date": "2026-10-21T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Lille OSC"
+        },
+        "away": {
+          "name": "Galatasaray SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575370,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Madrid CF"
+        },
+        "away": {
+          "name": "RB Leipzig"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575371,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "FK Shakhtar Donetsk"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575372,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Bayern München"
+        },
+        "away": {
+          "name": "Arsenal FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575373,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Brugge KV"
+        },
+        "away": {
+          "name": "Racing Club de Lens"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575374,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Aston Villa FC"
+        },
+        "away": {
+          "name": "Viking FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575375,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sporting Clube de Portugal"
+        },
+        "away": {
+          "name": "LASK Linz"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575376,
+      "date": "2026-10-21T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Betis Balompié"
+        },
+        "away": {
+          "name": "Feyenoord Rotterdam"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 3"
+      },
+      "fixture": {
+        "date": "2026-10-21T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575377,
+      "date": "2026-11-03T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Shakhtar Donetsk"
+        },
+        "away": {
+          "name": "Sporting Clube de Portugal"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575378,
+      "date": "2026-11-03T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Galatasaray SK"
+        },
+        "away": {
+          "name": "VfB Stuttgart"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575379,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Feyenoord Rotterdam"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575380,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Barcelona"
+        },
+        "away": {
+          "name": "Aston Villa FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575381,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Atlético de Madrid"
+        },
+        "away": {
+          "name": "FC Bayern München"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575382,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Villarreal CF"
+        },
+        "away": {
+          "name": "Paris Saint-Germain FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575383,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester United FC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575384,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Bodø/Glimt"
+        },
+        "away": {
+          "name": "Lille OSC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575385,
+      "date": "2026-11-03T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "LASK Linz"
+        },
+        "away": {
+          "name": "ŠK Slovan Bratislava"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-03T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575386,
+      "date": "2026-11-04T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PAE AEK"
+        },
+        "away": {
+          "name": "Real Madrid CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575387,
+      "date": "2026-11-04T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Fenerbahçe SK"
+        },
+        "away": {
+          "name": "Liverpool FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575388,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "RB Leipzig"
+        },
+        "away": {
+          "name": "Manchester City FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575389,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SK Slavia Praha"
+        },
+        "away": {
+          "name": "Arsenal FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575390,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PSV"
+        },
+        "away": {
+          "name": "Club Brugge KV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575391,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Borussia Dortmund"
+        },
+        "away": {
+          "name": "Real Betis Balompié"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575392,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Porto"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575393,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Racing Club de Lens"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575394,
+      "date": "2026-11-04T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Viking FK"
+        },
+        "away": {
+          "name": "Sabah FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 4"
+      },
+      "fixture": {
+        "date": "2026-11-04T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575395,
+      "date": "2026-11-24T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Galatasaray SK"
+        },
+        "away": {
+          "name": "Aston Villa FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575396,
+      "date": "2026-11-24T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Bodø/Glimt"
+        },
+        "away": {
+          "name": "LASK Linz"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575397,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Madrid CF"
+        },
+        "away": {
+          "name": "PSV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575398,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester City FC"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575399,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Arsenal FC"
+        },
+        "away": {
+          "name": "Borussia Dortmund"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575400,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Feyenoord Rotterdam"
+        },
+        "away": {
+          "name": "FC Porto"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575401,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ŠK Slovan Bratislava"
+        },
+        "away": {
+          "name": "Real Betis Balompié"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575402,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "RB Leipzig"
+        },
+        "away": {
+          "name": "Racing Club de Lens"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575403,
+      "date": "2026-11-24T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "PAE AEK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-24T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575404,
+      "date": "2026-11-25T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sabah FK"
+        },
+        "away": {
+          "name": "FC Barcelona"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575405,
+      "date": "2026-11-25T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SK Slavia Praha"
+        },
+        "away": {
+          "name": "Villarreal CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575406,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "VfB Stuttgart"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575407,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Atlético de Madrid"
+        },
+        "away": {
+          "name": "Viking FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575408,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Paris Saint-Germain FC"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575409,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Brugge KV"
+        },
+        "away": {
+          "name": "Liverpool FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575410,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Lille OSC"
+        },
+        "away": {
+          "name": "FC Bayern München"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575411,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sporting Clube de Portugal"
+        },
+        "away": {
+          "name": "Manchester United FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575412,
+      "date": "2026-11-25T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Shakhtar Donetsk"
+        },
+        "away": {
+          "name": "Fenerbahçe SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 5"
+      },
+      "fixture": {
+        "date": "2026-11-25T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575413,
+      "date": "2026-12-08T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Villarreal CF"
+        },
+        "away": {
+          "name": "Sabah FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575414,
+      "date": "2026-12-08T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Viking FK"
+        },
+        "away": {
+          "name": "Feyenoord Rotterdam"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575415,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Barcelona"
+        },
+        "away": {
+          "name": "Manchester City FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575416,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Aston Villa FC"
+        },
+        "away": {
+          "name": "Paris Saint-Germain FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575417,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Bayern München"
+        },
+        "away": {
+          "name": "SK Slavia Praha"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575418,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Club Brugge KV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575419,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Sporting Clube de Portugal"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575420,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester United FC"
+        },
+        "away": {
+          "name": "RB Leipzig"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575421,
+      "date": "2026-12-08T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PAE AEK"
+        },
+        "away": {
+          "name": "Galatasaray SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-08T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575422,
+      "date": "2026-12-09T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Betis Balompié"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575423,
+      "date": "2026-12-09T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ŠK Slovan Bratislava"
+        },
+        "away": {
+          "name": "FK Shakhtar Donetsk"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575280,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Arsenal FC"
+        },
+        "away": {
+          "name": "Real Madrid CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575286,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Borussia Dortmund"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575290,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PSV"
+        },
+        "away": {
+          "name": "Club Atlético de Madrid"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575295,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Liverpool FC"
+        },
+        "away": {
+          "name": "FC Porto"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575315,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Racing Club de Lens"
+        },
+        "away": {
+          "name": "FK Bodø/Glimt"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575317,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "LASK Linz"
+        },
+        "away": {
+          "name": "Fenerbahçe SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575322,
+      "date": "2026-12-09T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "VfB Stuttgart"
+        },
+        "away": {
+          "name": "Lille OSC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 6"
+      },
+      "fixture": {
+        "date": "2026-12-09T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575292,
+      "date": "2027-01-19T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Bodø/Glimt"
+        },
+        "away": {
+          "name": "Club Atlético de Madrid"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575318,
+      "date": "2027-01-19T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Galatasaray SK"
+        },
+        "away": {
+          "name": "Feyenoord Rotterdam"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575282,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Madrid CF"
+        },
+        "away": {
+          "name": "LASK Linz"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575285,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Internazionale Milano"
+        },
+        "away": {
+          "name": "Liverpool FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575302,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "VfB Stuttgart"
+        },
+        "away": {
+          "name": "Club Brugge KV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575303,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Aston Villa FC"
+        },
+        "away": {
+          "name": "Borussia Dortmund"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575307,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PAE AEK"
+        },
+        "away": {
+          "name": "AS Roma"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575308,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Porto"
+        },
+        "away": {
+          "name": "SK Slavia Praha"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575321,
+      "date": "2027-01-19T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Lille OSC"
+        },
+        "away": {
+          "name": "ŠK Slovan Bratislava"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-19T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575314,
+      "date": "2027-01-20T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Fenerbahçe SK"
+        },
+        "away": {
+          "name": "Villarreal CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575320,
+      "date": "2027-01-20T18:45:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sabah FK"
+        },
+        "away": {
+          "name": "SSC Napoli"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T18:45:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575284,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Racing Club de Lens"
+        },
+        "away": {
+          "name": "Manchester City FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575288,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Sporting Clube de Portugal"
+        },
+        "away": {
+          "name": "FC Barcelona"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575294,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Como 1907"
+        },
+        "away": {
+          "name": "Paris Saint-Germain FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575297,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Real Betis Balompié"
+        },
+        "away": {
+          "name": "Arsenal FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575300,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester United FC"
+        },
+        "away": {
+          "name": "FC Bayern München"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575312,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Viking FK"
+        },
+        "away": {
+          "name": "PSV"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575313,
+      "date": "2027-01-20T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "RB Leipzig"
+        },
+        "away": {
+          "name": "FK Shakhtar Donetsk"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 7"
+      },
+      "fixture": {
+        "date": "2027-01-20T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575281,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FK Shakhtar Donetsk"
+        },
+        "away": {
+          "name": "Real Madrid CF"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575283,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Manchester City FC"
+        },
+        "away": {
+          "name": "Sporting Clube de Portugal"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575287,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "ŠK Slovan Bratislava"
+        },
+        "away": {
+          "name": "FC Internazionale Milano"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575289,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Barcelona"
+        },
+        "away": {
+          "name": "Como 1907"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575291,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Atlético de Madrid"
+        },
+        "away": {
+          "name": "Fenerbahçe SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575293,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Paris Saint-Germain FC"
+        },
+        "away": {
+          "name": "Galatasaray SK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575296,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Liverpool FC"
+        },
+        "away": {
+          "name": "Racing Club de Lens"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575298,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Arsenal FC"
+        },
+        "away": {
+          "name": "Sabah FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575299,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "FC Bayern München"
+        },
+        "away": {
+          "name": "Real Betis Balompié"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575301,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Club Brugge KV"
+        },
+        "away": {
+          "name": "FK Bodø/Glimt"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575304,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Borussia Dortmund"
+        },
+        "away": {
+          "name": "PAE AEK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575305,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SK Slavia Praha"
+        },
+        "away": {
+          "name": "Aston Villa FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575306,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "AS Roma"
+        },
+        "away": {
+          "name": "Lille OSC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575309,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "LASK Linz"
+        },
+        "away": {
+          "name": "FC Porto"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575310,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Villarreal CF"
+        },
+        "away": {
+          "name": "Manchester United FC"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575311,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "PSV"
+        },
+        "away": {
+          "name": "VfB Stuttgart"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575316,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "Feyenoord Rotterdam"
+        },
+        "away": {
+          "name": "RB Leipzig"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    },
+    {
+      "id": 575319,
+      "date": "2027-01-27T21:00:00.000Z",
+      "teams": {
+        "home": {
+          "name": "SSC Napoli"
+        },
+        "away": {
+          "name": "Viking FK"
+        }
+      },
+      "venue": {
+        "name": "TBD",
+        "city": ""
+      },
+      "league": {
+        "round": "League Phase - 8"
+      },
+      "fixture": {
+        "date": "2027-01-27T21:00:00.000Z",
+        "status": {
+          "long": "TIMED"
+        }
+      }
+    }
+  ]
+}
